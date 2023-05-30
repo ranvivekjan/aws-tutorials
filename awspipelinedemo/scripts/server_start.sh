@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo chmod +x /opt/tomcat/bin/./startup.sh
-sudo /opt/tomcat/bin/./startup.sh
+sudo chmod +x /opt/tomcat/latest/bin/./startup.sh
+sudo /opt/tomcat/latest/bin/./startup.sh
